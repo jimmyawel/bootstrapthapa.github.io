@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="40" viewBox="0 0 44 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="44" height="40" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="burg" clip-path="url(#clip-path)">
+    <g transform="translate(-270 -52)">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="44" height="8" transform="translate(270 52)" fill="#040404"/>
+    </g>
+    <g transform="translate(-270 -39)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="44" height="8" transform="translate(270 52)" fill="#040404"/>
+    </g>
+    <g transform="translate(-270 -26)">
+      <rect id="Rectangle_13-3" data-name="Rectangle 13" width="44" height="8" transform="translate(270 52)" fill="#040404"/>
+    </g>
+  </g>
+</svg>
