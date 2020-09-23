@@ -730,6 +730,11 @@ h6{
 		.sub-btn:focus{
 			outline: none;
 		}
+	@media(max-width: 720px){
+			.main{
+				width: 90%;
+			}
+		}
 
 
 
